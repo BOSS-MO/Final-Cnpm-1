@@ -1,0 +1,14 @@
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\bin\Debug\cnpm.exe.config
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\bin\Debug\cnpm.exe
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\bin\Debug\cnpm.pdb
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.csproj.AssemblyReference.cache
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.Form1.resources
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.Properties.Resources.resources
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.csproj.GenerateResource.cache
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.csproj.CoreCompileInputs.cache
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.exe
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.pdb
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.login.resources
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.product.resources
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.PhieuNhapKho.resources
+C:\Users\AN515-54\Desktop\cuối kì cnpm\cnpm\cnpm\obj\Debug\cnpm.PhieuXuatKho.resources
